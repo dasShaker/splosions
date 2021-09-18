@@ -1,4 +1,5 @@
 """
+Sept 17, 2021 - dasShaker
 Watched a video on DaFluffyPotato's channel (https://www.youtube.com/c/DaFluffyPotato) that talked about how he did his
 explosions.  Also watched another of his videos talking about solving problems...  So without knowing how he did it, I
 tried to replicate the results.  Here is what I came up with.
